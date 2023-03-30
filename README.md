@@ -14,4 +14,5 @@
 
 ### Part 3
 
-* Implementation of stereo dense reconstruction and construction of disparity maps.
+* Implementation of stereo dense reconstruction.
+* Construction of disparity maps.
