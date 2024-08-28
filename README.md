@@ -9,7 +9,7 @@
 
 ### Part 2
 
-* Computation of fundamental matrix, linear triangulation, epipoles, epipolar lines, etc.
+* Computation of [fundamental matrix](https://en.wikipedia.org/wiki/Fundamental_matrix_(computer_vision)), linear triangulation, epipoles, epipolar lines, etc.
 * Implementation of various cheiralities and understanding of the cheirality condition.
 
 ### Part 3
