@@ -5,7 +5,7 @@
 ### Part 1
 
 * Implementation and understanding of [DLT](https://en.wikipedia.org/wiki/Direct_linear_transformation).
-* Understanding of Zhang's method and RANSAC based DLT.
+* Understanding of [Zhang's](https://en.wikipedia.org/wiki/Camera_resectioning) method and [RANSAC](https://en.wikipedia.org/wiki/Random_sample_consensus)-based DLT.
 
 ### Part 2
 
