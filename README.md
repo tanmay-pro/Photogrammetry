@@ -4,7 +4,7 @@
 
 ### Part 1
 
-* Implementation and understanding of [DLT]([url](https://en.wikipedia.org/wiki/Direct_linear_transformation)).
+* Implementation and understanding of [DLT](https://en.wikipedia.org/wiki/Direct_linear_transformation).
 * Understanding of Zhang's method and RANSAC based DLT.
 
 ### Part 2
