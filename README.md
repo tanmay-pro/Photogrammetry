@@ -14,5 +14,5 @@
 
 ### Part 3
 
-* Implementation of stereo dense reconstruction.
+* Implementation of stereo-dense [3D reconstruction](https://en.wikipedia.org/wiki/Computer_stereo_vision).
 * Construction of disparity maps.
